@@ -25,6 +25,8 @@ git lfs track "*.largefiles"
 ```
 It will create a file name **.gitattributes**
 > You must add all largefiles using these code
+![redme](https://github.com/FBS-OJT-031/Git-Large-Files-Commit/assets/58065866/e62e8ac2-fb8b-4cf0-91fa-5548ca822c21)
+
 
 - Then just push 
 ```bash
